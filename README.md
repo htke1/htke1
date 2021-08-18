@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @htke1
+- 👋 Hi, I’m Tenzin
 - 👀 I’m interested in coding, designing and basektball.
 - 🌱 I’m currently learning ReactJS, MongoDB and ExpressJS.
 - 💞️ I’m looking to collaborate on creating website or designing one.
